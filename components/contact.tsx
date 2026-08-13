@@ -54,16 +54,6 @@ export function Contact() {
             opportunities.
           </motion.p>
 
-          <motion.div variants={fadeUp} className="mt-9 flex justify-center">
-            <a
-              href="mailto:hello@lira.dev"
-              className="group inline-flex items-center gap-2 rounded-full bg-magenta px-8 py-4 text-base font-semibold text-primary-foreground shadow-[0_0_40px_-6px_var(--magenta)] transition-all hover:scale-[1.03] hover:shadow-[0_0_55px_-4px_var(--magenta)] active:scale-95"
-            >
-              Let&apos;s Talk
-              <ArrowUpRight className="h-5 w-5 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
-            </a>
-          </motion.div>
-
           <motion.div
             variants={fadeUp}
             className="mx-auto mt-12 grid max-w-2xl gap-3 sm:grid-cols-3"

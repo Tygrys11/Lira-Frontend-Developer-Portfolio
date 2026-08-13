@@ -63,7 +63,7 @@ export function Navbar() {
             aria-label="Go to top"
           >
             <span className="grid h-9 w-9 place-items-center rounded-xl border border-border bg-surface font-mono text-sm font-bold text-magenta transition-colors group-hover:border-magenta/60">
-              {'</>'}
+              <img src="../profil.png" alt="profile" />
             </span>
             <span className="font-mono text-sm font-semibold tracking-tight text-foreground">
             <span className="text-magenta">✦</span> Lira <span className="text-magenta">✦</span>
@@ -142,7 +142,7 @@ export function Navbar() {
               <li className="pt-2">
                 <button
                   onClick={() => go('contact')}
-                  className="flex w-full items-center justify-center gap-1.5 rounded-full bg-magenta px-4 py-3 text-sm font-semibold text-primary-foreground"
+                  className="flex w-full items-center justify-center gap-1.5 rounded-full bg-magenta px-4 py-3 text-sm font-semibold text-primary-foreground shadow-[0_0_24px_-4px_var(--magenta)] transition-transform hover:scale-[1.03] active:scale-95 sm:flex"
                 >
                   Let&apos;s Talk
                   <ArrowUpRight className="h-4 w-4" />

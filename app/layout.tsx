@@ -17,6 +17,9 @@ const jetbrainsMono = JetBrains_Mono({
 
 export const metadata: Metadata = {
   title: 'Lira — Frontend Developer',
+  icons: {
+    icon: '/profil.png',
+  },
   description:
     'Frontend developer focused on creating clean, responsive and engaging web experiences through code & design.',
   generator: 'v0.app',
