@@ -13,7 +13,10 @@ import {
   GitBranch,
   SquareTerminal,
   PenTool,
+  Globe2,
+  Puzzle,
 } from 'lucide-react'
+import { siWordpress } from 'simple-icons'
 import type { ComponentType, SVGProps } from 'react'
 import { fadeUp, stagger, viewportOnce } from '@/lib/motion'
 import { SectionLabel } from './section-label'
@@ -25,8 +28,7 @@ const groups: { title: string; items: Tech[] }[] = [
   {
     title: 'Frontend',
     items: [
-      { name: 'HTML5', icon: FileCode },
-      { name: 'CSS3', icon: Palette },
+      { name: 'HTML5', icon: FileCode },  
       { name: 'JavaScript', icon: Braces },
       { name: 'TypeScript', icon: Code2 },
       { name: 'React', icon: Atom },
@@ -37,8 +39,15 @@ const groups: { title: string; items: Tech[] }[] = [
     title: 'Styling',
     items: [
       { name: 'Tailwind CSS', icon: Wind },
-      { name: 'Sass', icon: Palette },
+      { name: 'CSS3', icon: Palette },
       { name: 'Framer Motion', icon: Sparkles },
+    ],
+  },
+  {
+    title: 'CMS',
+    items: [
+      { name: 'Wordpress', icon: Globe2},
+      { name: 'Wordpress Plugins', icon: Puzzle},
     ],
   },
   {

@@ -14,7 +14,7 @@ export type Project = {
   featured?: boolean
 }
 
-export const projects: Project[] = [
+export const Wordpressprojects: Project[] = [
   {
     number: '01',
     title: 'LiraStudioYT Mineimator Portfolio',
@@ -68,27 +68,27 @@ export const projects: Project[] = [
   },
   {
     number: '03',
-    title: 'Lumen Chat',
-    tagline: 'AI-powered conversation interface',
+    title: 'Magic BookStore',
+    tagline: 'Headless e-commerce storefront',
     description:
-      'A sleek AI chat application with streaming responses, conversation history and a focus on a calm, distraction-free interface.',
+      'A fast, elegant e-commerce experience with a smooth cart flow and a design system that keeps the whole store consistent.',
     longDescription:
-      'Lumen Chat is an AI assistant interface that makes long conversations feel organized and easy to navigate. It streams responses token by token, groups history intelligently and keeps the reading experience clean. The main goal was to create an interface that stays out of the way and lets the content shine.',
-    image: '/project-3.png',
-    technologies: ['React', 'Next.js', 'TypeScript', 'Tailwind', 'Framer Motion'],
+      'Aurora Store is a headless commerce frontend designed to feel as smooth as a native app. It focuses on speed, accessible product discovery and a frictionless checkout. Every component is part of a shared design system so new pages stay visually consistent and quick to ship.',
+    image: '/screenshots/hero-magicbookstore.png',
+    technologies: ['Next.js', 'TypeScript', 'Tailwind', 'Sass'],
     features: [
-      'Streaming responses',
-      'Conversation history',
-      'Keyboard shortcuts',
-      'Markdown rendering',
-      'Dark mode',
+      'Product filtering & search',
+      'Persistent cart',
+      'Optimistic UI updates',
+      'Design system',
+      'SEO optimized',
       'Responsive design',
     ],
     challenge:
-      'Rendering streamed markdown smoothly while keeping the scroll position stable and the input always accessible.',
+      'Keeping the cart perfectly in sync across tabs and sessions while making every interaction feel instant.',
     solution:
-      'I built an incremental markdown renderer paired with a scroll anchor system, so streamed text appears fluidly without ever pulling the user away from where they were reading.',
-    liveUrl: 'https://example.com',
-    githubUrl: 'https://github.com',
+      'I used an optimistic UI layer backed by a synced client store, so updates render immediately and reconcile with the server in the background without blocking the user.',
+    liveUrl: 'https://magic-book-store.vercel.app/',
+    githubUrl: 'https://github.com/Tygrys11/MagicBookStore',
   },
 ]

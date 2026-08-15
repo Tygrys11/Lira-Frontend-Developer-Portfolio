@@ -5,7 +5,7 @@ import { Hero } from '@/components/hero'
 import { About } from '@/components/about'
 import { TechStack } from '@/components/tech-stack'
 import { Projects } from '@/components/projects'
-import { Journey } from '@/components/journey'
+import { WordpressProjects } from '@/components/WordpressProjects'
 import { Skills } from '@/components/skills'
 import { Contact } from '@/components/contact'
 import { Footer } from '@/components/footer'
@@ -21,7 +21,7 @@ export default function Page() {
         <About />
         <TechStack />
         <Projects />
-        <Journey />
+        <WordpressProjects />
         <Skills />
         <Contact />
       </main>

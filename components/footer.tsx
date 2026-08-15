@@ -2,9 +2,9 @@ import { Mail } from 'lucide-react'
 import { GithubIcon, LinkedinIcon } from './brand-icons'
 
 const socials = [
-  { icon: GithubIcon, label: 'GitHub', href: 'https://github.com' },
-  { icon: LinkedinIcon, label: 'LinkedIn', href: 'https://linkedin.com' },
-  { icon: Mail, label: 'Email', href: 'mailto:hello@lira.dev' },
+  { icon: GithubIcon, label: 'GitHub', href: 'https://github.com/Tygrys11' },
+  { icon: LinkedinIcon, label: 'LinkedIn', href: 'https://www.linkedin.com/in/justyna-kucharska-20018a428/' },
+  { icon: Mail, label: 'Email', href: 'mailto:justyna.kucharska.developer@o2.pl' },
 ]
 
 export function Footer() {
