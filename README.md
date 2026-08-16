@@ -18,7 +18,7 @@
 
 <br /><br />
 
-<img src="./public/screenshots/hero.png" alt="Lira Portfolio Preview" width="900" />
+<img src="./public/screenshots/hero-lira-portfolio.png" alt="Lira Portfolio Preview" width="100%" />
 
 </div>
 
@@ -32,9 +32,9 @@
 
 ---
 
-## ◈ About Lira
+## ◈ About Website
 
-**Lira** is my personal Frontend Developer portfolio — a place where I showcase the projects I build, the technologies I work with and the way I approach modern web development.
+**Lira Frontend Developer Portfolio** is my personal place where I showcase the projects I build, the technologies I work with and the way I approach modern web development.
 
 Rather than creating a simple collection of links, I wanted the portfolio itself to demonstrate the skills I use when building real products:
 
