@@ -8,14 +8,23 @@
 
 <br />
 
-<a href="https://github.com/Tygrys11/Lira-Frontend-Developer-Portfolio">
-  <img src="https://img.shields.io/badge/VIEW%20SOURCE-18181B?style=for-the-badge&logo=github&logoColor=white" alt="View Source" />
-</a>
-&nbsp;
-<a href="https://lira-frontend-developer-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-18181B?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
-</a>
-
+<p align="center">
+  <a href="https://lira-frontend-developer-portfolio.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/↗%20LIVE%20PORTFOLIO-18181B?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Live Portfolio"
+      width="25%"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Tygrys11/Lira-Frontend-Developer-Portfolio">
+    <img
+      src="https://img.shields.io/badge/⌘%20VIEW%20SOURCE-18181B?style=for-the-badge&logo=github&logoColor=white"
+      alt="View Source"
+      width="25%"
+    />
+  </a>
+</p>
 <br /><br />
 
 <img src="./public/screenshots/hero-lira-portfolio.png" alt="Lira Portfolio Preview" width="100%" />
@@ -32,27 +41,25 @@
 
 ---
 
-## ◈ About Website
+## ◈ About
 
-**Lira Frontend Developer Portfolio** is my personal place where I showcase the projects I build, the technologies I work with and the way I approach modern web development.
+**Lira** is my personal Frontend Developer portfolio — a place where I showcase the projects I build, the technologies I work with and my approach to modern web development.
 
-Rather than creating a simple collection of links, I wanted the portfolio itself to demonstrate the skills I use when building real products:
+I wanted the portfolio itself to be more than a collection of links. Every part of the interface is designed to demonstrate the skills I use when building real products:
 
 * thoughtful UI
 * responsive layouts
 * reusable components
 * smooth interactions
 * motion and micro-interactions
-* clean project architecture
+* clean architecture
 * attention to detail
 
-The goal was simple:
-
-> **Build a portfolio that is itself a demonstration of my frontend skills.**
+> **The goal was simple: build a portfolio that is itself a demonstration of my frontend skills.**
 
 ---
 
-## ✦ What makes it different
+## ✦ What Defines Lira
 
 <table>
 <tr>
@@ -60,14 +67,14 @@ The goal was simple:
 
 ### 🎨 Design First
 
-Clean interfaces with a strong focus on typography, spacing, hierarchy and visual consistency.
+Clean interfaces built around typography, spacing, hierarchy and visual consistency.
 
 </td>
 <td width="50%">
 
 ### ⚡ Motion
 
-Subtle animations and transitions powered by Framer Motion to make the interface feel alive without overwhelming the user.
+Subtle animations and transitions powered by Framer Motion to add depth without distracting from the content.
 
 </td>
 </tr>
@@ -77,14 +84,14 @@ Subtle animations and transitions powered by Framer Motion to make the interface
 
 ### 🧩 Component Driven
 
-Reusable React components keep the application modular and easier to maintain.
+Reusable React components keep the interface modular, maintainable and easier to extend.
 
 </td>
 <td width="50%">
 
 ### 📱 Responsive
 
-The interface adapts across desktop, laptop, tablet and mobile devices.
+Designed to provide a consistent experience across desktop, laptop, tablet and mobile.
 
 </td>
 </tr>
@@ -94,14 +101,14 @@ The interface adapts across desktop, laptop, tablet and mobile devices.
 
 ### 🛠️ Real Projects
 
-The portfolio showcases actual projects instead of placeholder concepts.
+The portfolio showcases real projects, each with its own technologies, features and development goals.
 
 </td>
 <td width="50%">
 
-### 🧠 Continuous Development
+### 🧠 Always Evolving
 
-The project evolves together with my skills and the technologies I learn.
+Lira continues to grow alongside my skills, experiments and new projects.
 
 </td>
 </tr>
@@ -115,13 +122,13 @@ The project evolves together with my skills and the technologies I learn.
 
 ### Core
 
-<img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
 ### Styling & Motion
 
-<img src="https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 
 ### UI & Tools
@@ -139,86 +146,9 @@ The project evolves together with my skills and the technologies I learn.
 
 ---
 
-# ✦ Experience the Interface
-
-The portfolio is built around a collection of interactive sections rather than a traditional static resume.
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│                         HERO                                │
-│                                                             │
-│              Introduction & primary actions                 │
-│                                                             │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│                         ABOUT                               │
-│                                                             │
-│                 Who I am & how I work                       │
-│                                                             │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│                    TECHNOLOGIES                             │
-│                                                             │
-│                 Tools & technical skills                    │
-│                                                             │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│                    SELECTED WORK                            │
-│                                                             │
-│            Projects → Details → Live Demo                   │
-│                                                             │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│                       CONTACT                               │
-│                                                             │
-│                 Let's build something                       │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-# 🚀 Features
-
-### Navigation
-
-* Responsive navigation
-* Smooth scrolling
-* Mobile navigation
-* Scroll progress indicator
-
-### UI
-
-* Responsive layouts
-* Reusable components
-* Project cards
-* Interactive project modals
-* Technology icons
-* Responsive typography
-* Custom visual elements
-
-### Motion
-
-* Entrance animations
-* Staggered animations
-* Hover interactions
-* Project transitions
-* Floating elements
-* Scroll-based animations
-
-### Performance
-
-* Next.js Image optimization
-* Component-based architecture
-* Shared animation configuration
-* Production analytics
-
----
-
 # 🧠 Architecture
 
-One of the goals of this project was to keep the interface modular instead of putting the entire application into a single page.
+Lira follows a component-driven structure designed to keep individual sections focused and reusable.
 
 ```text
 app/
@@ -249,32 +179,25 @@ components/
 ├── section-label.tsx
 ├── scroll-progress.tsx
 │
-└── WordPress
-    ├── project-card-wordpressP.tsx
-    ├── project-modal-wordpressP.tsx
-    └── wordpressProjects.tsx
+├── project-card-wordpressP.tsx
+├── project-modal-wordpressP.tsx
+└── wordpressProjects.tsx
 
 lib/
 │
 ├── motion.ts
+├── untils.ts
+├── Wordpressprojects.ts
 └── projects.ts
 ```
 
-### Why this structure?
+Project data is separated from the presentation layer in `lib/projects.ts`, while shared animation variants are centralized in `lib/motion.ts`.
 
-The UI is split into focused components so that individual sections can be developed and modified independently.
-
-Project data is separated from the presentation layer, while shared animation variants are centralized inside:
-
-```text
-lib/motion.ts
-```
-
-This makes animations easier to reuse and keeps individual components cleaner.
+This keeps the UI components focused on presentation and makes common behaviours easier to reuse.
 
 ---
 
-# ✦ Project Showcase
+# ✦ Selected Work
 
 ## 01 / LiraStudioYT
 
@@ -286,10 +209,10 @@ A dedicated portfolio created for a Minecraft animator and YouTube creator.
 
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Framer Motion`
 
-**Includes**
+**Highlights**
 
 * Mine-imator project showcase
-* YouTube presentation
+* YouTube content presentation
 * animated sections
 * responsive interface
 * reusable components
@@ -297,17 +220,27 @@ A dedicated portfolio created for a Minecraft animator and YouTube creator.
 
 <div align="center">
 
-<img src="./public/screenshots/hero.png" alt="Magic BookStore" width="100%" />
+<img src="./public/screenshots/hero.png" alt="LiraStudioYT Mine-imator Portfolio" width="100%" />
 
 <br /><br />
 
-<a href="https://lirastudioyt-mine-imator-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/↗_LIVE_DEMO-000000?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/Tygrys11/LiraStudioYT-Mineimator-Portfolio">
-  <img src="https://img.shields.io/badge/⌘_SOURCE-000000?style=for-the-badge" />
-</a>
+<p>
+  <a href="https://lirastudioyt-mine-imator-portfolio.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/↗%20LIVE%20DEMO-000000?style=for-the-badge"
+      alt="Live Demo"
+      width="18.5%"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Tygrys11/LiraStudioYT-Mineimator-Portfolio">
+    <img
+      src="https://img.shields.io/badge/⌘%20SOURCE-000000?style=for-the-badge"
+      alt="Source Code"
+      width="15%"
+    />
+  </a>
+</p>
 
 </div>
 
@@ -317,26 +250,24 @@ A dedicated portfolio created for a Minecraft animator and YouTube creator.
 
 ### Online Bookstore
 
-A larger application currently under active development.
-
-The project explores a more complex application structure with authentication, user accounts, shopping functionality and an administration dashboard.
+A larger application focused on building a more complex e-commerce experience with authentication, user accounts, shopping functionality and an administration dashboard.
 
 **Built with**
 
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Firebase` · `Clerk` · `NextAuth` · `Framer Motion`
 
-**Includes**
+**Highlights**
 
-* Book catalogue
-* Book details
-* Shopping cart
-* Authentication
-* User profiles
-* Orders
-* Category management
-* Analytics dashboard
-* Account settings
-* Responsive UI
+* book catalogue
+* book details
+* shopping cart
+* authentication
+* user profiles
+* orders
+* category management
+* analytics dashboard
+* account settings
+* responsive UI
 
 <div align="center">
 
@@ -345,16 +276,16 @@ The project explores a more complex application structure with authentication, u
 <br /><br />
 
 <a href="https://magic-book-store.vercel.app/">
-  <img src="https://img.shields.io/badge/↗_LIVE_DEMO-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/↗_LIVE_DEMO-000000?style=for-the-badge" alt="Live Demo" width="18.5%" />
 </a>
-
+&nbsp;
 <a href="https://github.com/Tygrys11/MagicBookStore">
-  <img src="https://img.shields.io/badge/⌘_SOURCE-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⌘_SOURCE-000000?style=for-the-badge" alt="Source Code" width="15%"/>
 </a>
 
-<br />
+<br /><br />
 
-`🚧 WORK IN PROGRESS`
+**🚧 Work in Progress**
 
 </div>
 
@@ -364,34 +295,32 @@ The project explores a more complex application structure with authentication, u
 
 ### Task Management Application
 
-My first project built with React and Vite.
-
-A lightweight application created to practice component architecture, state management and interactive UI development.
+A lightweight task management application built with React and Vite, focused on component architecture and interactive UI development.
 
 **Built with**
 
 `React` · `Vite` · `Ionic React` · `Ionicons`
 
-**Includes**
+**Highlights**
 
-* Task creation
-* Task management
-* Interactive interface
-* Reusable components
-* Responsive layout
+* task creation
+* task management
+* interactive interface
+* reusable components
+* responsive layout
 
 <div align="center">
 
-<img src="./public/screenshots/ToDoList.png" alt="Magic BookStore" width="100%" />
+<img src="./public/screenshots/ToDoList.png" alt="To-Do List" width="100%" />
 
 <br /><br />
 
 <a href="https://to-do-list-planning.netlify.app/">
-  <img src="https://img.shields.io/badge/↗_LIVE_DEMO-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/↗_LIVE_DEMO-000000?style=for-the-badge" alt="Live Demo" width="18.5%"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/Tygrys11/ToDo-List">
-  <img src="https://img.shields.io/badge/⌘_SOURCE-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⌘_SOURCE-000000?style=for-the-badge" alt="Source Code" width="15%"/>
 </a>
 
 </div>
@@ -400,80 +329,38 @@ A lightweight application created to practice component architecture, state mana
 
 # 🎞️ Motion & Interaction
 
-Motion is an important part of the visual identity of Lira.
+Motion is an important part of Lira's visual identity.
 
-Instead of adding animations everywhere, the project uses smaller interactions to guide attention and improve the feeling of the interface.
+Animations are intentionally subtle and are used to guide attention and improve the overall feel of the interface.
 
-Examples include:
+The project uses Framer Motion for:
 
-```text
-Page Load
-    ↓
-Section Entrance
-    ↓
-Staggered Content
-    ↓
-Hover Interaction
-    ↓
-Project Transition
-    ↓
-Scroll Animation
-```
+* entrance animations
+* staggered content
+* hover interactions
+* project transitions
+* floating elements
+* scroll-based animations
 
-Animation configuration is shared through:
+Shared animation variants are centralized in:
 
 ```text
 lib/motion.ts
 ```
 
-This allows animation behaviour to remain consistent across different sections.
-
----
-
-# 📱 Responsive by Design
-
-The interface was designed around different screen sizes from the beginning.
-
-<div align="center">
-
-|    Device   |        Experience       |
-| :---------: | :---------------------: |
-| 🖥️ Desktop |       Full layout       |
-|  💻 Laptop  |     Adaptive layout     |
-|  📟 Tablet  |  Responsive components  |
-|  📱 Mobile  | Mobile-first navigation |
-
-</div>
-
-The layout uses Tailwind CSS breakpoints and adaptive component structures rather than separate desktop/mobile pages.
-
----
-
-# 📊 Project Status
-
-<div align="center">
-
-### 🟢 Active Development
-
-The portfolio is continuously evolving.
-
-New projects, improvements, animations and technologies will be added over time.
-
-</div>
-
 ---
 
 # 👨‍💻 About Me
 
-I'm a Frontend Developer focused on creating modern, responsive and engaging web experiences.
+I'm a Frontend Developer focused on building modern, responsive and engaging web experiences.
 
-My main focus is building interfaces with:
+My main focus is:
 
 **React · Next.js · TypeScript · Tailwind CSS**
 
-I enjoy combining development and design to create products that are both technically solid and visually polished.
+I enjoy combining development and design to create interfaces that are both technically solid and visually polished.
 
-I'm constantly learning, experimenting and building new projects.
+I'm continuously learning, experimenting and turning new ideas into real projects.
 
 ---
 
@@ -485,7 +372,7 @@ I'm open to:
 
 `Freelance Projects` · `Frontend Development` · `Collaborations` · `Creative Web Projects`
 
-Feel free to reach out through my portfolio.
+You can reach me through my portfolio.
 
 ---
 
@@ -493,6 +380,18 @@ Feel free to reach out through my portfolio.
 
 <br />
 
-<p>Built with Next.js, React, TypeScript & a lot of ☕</p>
+### ✦ LIRA
+
+**Built with Next.js, React, TypeScript & a lot of ☕**
+
+<br />
+
+<a href="https://lira-frontend-developer-portfolio.vercel.app/">
+  <img
+    src="https://img.shields.io/badge/↗%20VISIT%20LIRA%20PORTFOLIO-18181B?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Visit Lira Portfolio"
+    width="25%"
+  />
+</a>
 
 </div>
