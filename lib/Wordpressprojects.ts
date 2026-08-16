@@ -74,7 +74,7 @@ export const Wordpressprojects: Project[] = [
       'A WordPress website concept developed during my internship to present a solution for making medical appointment booking easier and reducing the need for phone reservations.',
     longDescription:
       'BookMed was a project I worked on during my internship as a concept for a more convenient approach to medical appointment booking. The idea was to present a solution that could reduce the number of appointments handled directly over the phone and make the process more accessible for patients. The website was developed using a WordPress theme, with my work focused on the visual presentation, layout and adaptation of the concept to the website.',
-    image: '/screenshots/hero-magicbookstore.png',
+    image: '/screenshots/bookmed.png',
     technologies: ['WordPress', 'HTML', 'CSS', 'JavaScript'],
     features: [
       'WordPress development',

@@ -105,7 +105,7 @@ export const projects: Project[] = [
       "A lightweight To-Do List application created to help users organize everyday tasks and responsibilities through a simple interactive interface.",
     longDescription:
       "To-Do List is my first project built with React and Vite. The application focuses on the basics of creating an interactive task management interface, allowing users to organize their everyday tasks through a simple and focused UI. The project is structured with reusable React components, including separate components for entering tasks and displaying task information.",
-    image: "/ToDoList.png",
+    image: "/screenshots/ToDoList.png",
     technologies: [
       "React",
       "Vite",
