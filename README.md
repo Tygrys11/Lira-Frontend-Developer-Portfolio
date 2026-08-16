@@ -297,6 +297,10 @@ A dedicated portfolio created for a Minecraft animator and YouTube creator.
 
 <div align="center">
 
+<img src="./public/screenshots/hero.png" alt="Magic BookStore" width="100%" />
+
+<br /><br />
+
 <a href="https://lirastudioyt-mine-imator-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/↗_LIVE_DEMO-000000?style=for-the-badge" />
 </a>
@@ -336,7 +340,7 @@ The project explores a more complex application structure with authentication, u
 
 <div align="center">
 
-<img src="./public/screenshots/hero-magicbookstore.png" alt="Magic BookStore" width="800" />
+<img src="./public/screenshots/hero-magicbookstore.png" alt="Magic BookStore" width="100%" />
 
 <br /><br />
 
@@ -377,6 +381,10 @@ A lightweight application created to practice component architecture, state mana
 * Responsive layout
 
 <div align="center">
+
+<img src="./public/screenshots/ToDoList.png" alt="Magic BookStore" width="100%" />
+
+<br /><br />
 
 <a href="https://to-do-list-planning.netlify.app/">
   <img src="https://img.shields.io/badge/↗_LIVE_DEMO-000000?style=for-the-badge" />
@@ -441,30 +449,6 @@ The layout uses Tailwind CSS breakpoints and adaptive component structures rathe
 
 ---
 
-# 📸 Screenshots
-
-<div align="center">
-
-### Desktop
-
-<img src="./public/screenshots/hero.png" alt="Lira Desktop Preview" width="900" />
-
-<br /><br />
-
-### Magic BookStore
-
-<img src="./public/screenshots/hero-magicbookstore.png" alt="Magic BookStore Preview" width="900" />
-
-<br /><br />
-
-### To-Do List
-
-<img src="./public/screenshots/ToDoList.png" alt="To-Do List Preview" width="900" />
-
-</div>
-
----
-
 # 📊 Project Status
 
 <div align="center">
@@ -507,22 +491,8 @@ Feel free to reach out through my portfolio.
 
 <div align="center">
 
-## ✦ Lira ✦
-
-**Code. Design. Experience.**
-
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=Tygrys11&label=Portfolio%20Views&color=000000&style=flat" alt="Portfolio Views" />
-
-<br /><br />
-
-<a href="https://github.com/Tygrys11">
-  <img src="https://img.shields.io/badge/GitHub-Tygrys11-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br /><br />
-
-<sub>Built with Next.js, React, TypeScript & a lot of ☕</sub>
+<p>Built with Next.js, React, TypeScript & a lot of ☕</p>
 
 </div>
