@@ -56,7 +56,7 @@ export const projects: Project[] = [
     number: "02",
     title: "Magic BookStore",
     tagline:
-      "Full-featured online bookstore with authentication, cart and user dashboard",
+      "Online bookstore with authentication, cart and user dashboard — work in progress",
     description:
       "A modern online bookstore where users can browse books, manage their account, add products to a cart and access their personal dashboard.",
     longDescription:
@@ -84,6 +84,7 @@ export const projects: Project[] = [
       "Account settings",
       "Contact and About Us pages",
       "Responsive interface",
+      "Work in progress",
     ],
     challenge:
       "The main challenge was combining multiple parts of an online bookstore into one consistent application. The project includes public book pages as well as authentication, user profiles, cart functionality and a larger dashboard with several management sections.",

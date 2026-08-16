@@ -5,8 +5,8 @@ import { motion } from "framer-motion";
 import { Wordpressprojects } from "@/lib/Wordpressprojects";
 import { fadeUp, stagger, viewportOnce } from "@/lib/motion";
 import { SectionLabel } from "./section-label";
-import { ProjectCard } from "./project-card";
-import { ProjectModal } from "./project-modal";
+import { ProjectCard } from "./project-card-wordpressP";
+import { ProjectModal } from "./project-modal-wordpressP";
 
 export function WordpressProjects() {
   const [openIndex, setOpenIndex] = useState<number | null>(null);
